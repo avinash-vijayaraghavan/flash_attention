@@ -1,4 +1,4 @@
-Implementation of flash attention 2 in Cuda and Triton. There are still some minor bugs, but it was written to learn to implement LLM kernels
+FlashAttention-2 forward kernels in CUDA and Triton, written to learn LLM kernels. Tested on an RTX 4050; see the notebook `flash_attention.ipynb` for usage.
 
 Tested on:
 
